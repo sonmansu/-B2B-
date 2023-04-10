@@ -309,7 +309,7 @@
 - url 파라미터에 따라(로그인 전/후) 다른 내용의 챗봇 연결
 <br/>
 
-####대시보드 내 몸상태페이지
+#### 대시보드 내 몸상태페이지
 ![1](https://user-images.githubusercontent.com/115059778/230389719-d2152d65-af0d-4f1e-a22f-36ef32e20064.png)
 ![2](https://user-images.githubusercontent.com/115059778/230389738-373b6fb3-15d7-434e-bdde-006dfeff2397.png)
 - 임직원 월별 몸상태 랭킹5 차트
