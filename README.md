@@ -198,37 +198,41 @@
 
 > 알고케어의 PM, 백엔드, 프론트엔드, 디자이너 분들과 팀을 이뤄 협업하였으며 이 때 필요한 협업 툴을 적극적으로 활용하였습니다.
 
-- 노션으로 작성된 기획 문서를 확인하고 일정을 관리 하였습니다.  
-  <img
-              src="https://user-images.githubusercontent.com/80534651/230412120-987f4cdd-7ff9-4291-9f2f-15798251fc66.png"
-              alt="작성된 기획 문서"
-              width="300px"
-          />
-
-- UI 디자인은 디자이너분께서 피그마를 통해 전달해주셨습니다.  
-  <img
-              src="https://user-images.githubusercontent.com/80534651/230414032-faf0c389-a53b-4657-81e8-80338e0ebd74.png"
-              alt="디자인"
-              width="300px"
-          />
-
-- 메신저로 슬랙을 사용하였습니다.  
-  <img
-              src="https://user-images.githubusercontent.com/80534651/230414641-64f4443c-a0fc-4856-a9e4-8a532dc4579a.png"
-              alt="사수 분께 라이브러리 사용에 관한 질문"
-              width="300px"
-          />
-
-  <사수 분께 라이브러리 사용에 관해 질문>
-
-  <img
-      src="https://user-images.githubusercontent.com/80534651/230415524-ea14873c-dbe7-410e-a054-eff899ac1f7c.png"
-      alt="백엔드 개발자 분께 API 관한 질문"
-      width="300px"
-  />  
-  <백엔드 개발자 분께 API 관해 질문>
-
-</p>
+<table>
+    <tr align="center">
+        <th>노션</th>
+        <th>피그마</th>
+        <th>슬랙</th>
+    </tr>
+    <tr>
+        <td>
+            <img
+                src="https://user-images.githubusercontent.com/80534651/230412120-987f4cdd-7ff9-4291-9f2f-15798251fc66.png"
+                alt="작성된 기획 문서"
+                width="300px"
+            />
+        </td>
+        <td>
+            <img
+                src="https://user-images.githubusercontent.com/80534651/230414032-faf0c389-a53b-4657-81e8-80338e0ebd74.png"
+                alt="디자인"
+                width="300px"
+            />
+        </td>
+        <td>
+            <img
+                src="https://user-images.githubusercontent.com/80534651/230414641-64f4443c-a0fc-4856-a9e4-8a532dc4579a.png"
+                alt="사수 분께 라이브러리 사용에 관한 질문"
+                width="300px"
+            />
+        </td>
+    </tr>
+    <tr align="center">
+        <td>기획안 확인, 일정 관리</td>
+        <td>UI 디자인</td>
+        <td>사내 메신저</td>
+    </tr>
+</table>
 
 ### 컨벤션 설정
 
