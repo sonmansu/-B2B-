@@ -236,56 +236,118 @@
 
 ### 컨벤션 설정
 
-- 깃 브랜치 전략으로 Git-flow를 사용하였습니다.  
-  <img
-      src="https://user-images.githubusercontent.com/80534651/230416019-464caaa8-6eb2-4a84-a6a5-b2fabd92aee3.png"
-      alt="개발기간 동안 생성한 브랜치들"
-      width="200px"
-  />  
-  <관리되고 있는 브랜치들>
+-   깃 브랜치 전략으로 Git-flow를 사용하였습니다.
+    <table>
+              <tr>
+                  <td>
+                      <img
+                          src="https://user-images.githubusercontent.com/80534651/230416019-464caaa8-6eb2-4a84-a6a5-b2fabd92aee3.png"
+                          alt="개발기간 동안 생성한 브랜치들"
+                          width="150px"
+                      />
+                  </td>
+              </tr>
+              <tr>
+                  <td align="center" class="comment">생성된 브랜치들</td>
+              </tr>
+          </table>
 
-- 알고케어의 코드 컨벤션에 맞춰 일관성 있고 유지 보수가 용이한 코드를 작성하고자 하였습니다.
+-   알고케어의 코드 컨벤션에 맞춰 일관성 있고 유지 보수가 용이한 코드를 작성하고자 하였습니다.
+    <table>
+            <tr>
+                <td>
+                    <img
+                        src="https://user-images.githubusercontent.com/80534651/233910603-f2da1c8b-5986-450f-81a2-6fc966616e69.png"
+                        alt="코드 컨벤션 체크리스트 문서 일부"
+                        width="350px"
+                    />
+                </td>
+            </tr>
+            <tr>
+                <td align="center" class="comment">코드 컨벤션 체크리스트 문서 일부</td>
+            </tr>
+        </table>
 
-- 커밋 컨벤션을 정해 일관성 있고 가독성 있는 커밋 메시지를 작성하였습니다.  
-  <img
-      src="https://user-images.githubusercontent.com/80534651/230416622-a37764de-ceb1-4604-9429-dd536765a025.png"
-      alt="커밋 메시지"
-      width="500px"
-  />
+-   커밋 컨벤션을 정해 일관성 있고 가독성 있는 커밋 메시지를 작성하였습니다.
 
-- Issue, Pull request는 템플릿에 맞춰 작성하여 팀원들이 작업한 사항에 대해 파악하기 쉽도록 했습니다.  
-  <img
-      src="https://user-images.githubusercontent.com/80534651/230417025-89101613-76ea-4c44-b5c5-ba651c75b5a5.png"
-      alt="pr 예시"
-      width="500px"
-  />  
-  <작성한 PR 예시>
+    <table>
+            <tr>
+                <td>
+                    <img
+                        src="https://user-images.githubusercontent.com/80534651/230416622-a37764de-ceb1-4604-9429-dd536765a025.png"
+                        alt="커밋 메시지"
+                        width="350px"
+                    />
+                </td>
+            </tr>
+            <tr>
+                <td align="center" class="comment">커밋 내역</td>
+            </tr>
+        </table>
+
+-   Issue, Pull request는 템플릿에 맞춰 작성하여 팀원들이 작업한 사항에 대해 파악하기 쉽도록 했습니다.
+    <table>
+            <tr>
+                <td>
+                    <img
+                        src="https://user-images.githubusercontent.com/80534651/230417025-89101613-76ea-4c44-b5c5-ba651c75b5a5.png"
+                        alt="pr 예시"
+                        width="350px"
+                    />  
+                </td>
+            </tr>
+            <tr>
+                <td align="center" class="comment">작성 PR 예시</td>
+            </tr>
+        </table>
 
 ### 코드 리뷰
 
-- 모든 코드는 팀원들과 사내 사수 분의 코드 리뷰 과정을 거쳤습니다.
-- 자유로운 의견 토론을 통해 코드를 개선하고 지식을 공유했습니다.
+-   모든 코드는 팀원들과 사내 사수 분의 코드 리뷰 과정을 거쳤습니다.
+-   자유로운 의견 토론을 통해 코드를 개선하고 지식을 공유했습니다.
 
-  <img
-      src="https://user-images.githubusercontent.com/80534651/230417667-6a0ec0b7-261f-4d3d-9a04-c35f5812899c.png"
-      alt="사수 분의 코드 리뷰"
-      width="500px"
-  />  
-  <사수 분의 코드 리뷰>
-
-  <img
-      src="https://user-images.githubusercontent.com/80534651/230417995-21e60dbb-eccc-4d99-be92-c1a3c1146d0c.png"
-      alt="팀원에게 질문"
-      width="500px"
-  />  
-  <팀원에게 질문>
-
-  <img
-      src="https://user-images.githubusercontent.com/80534651/230418253-30d73a7a-3519-49fa-99c9-94a7e93c8be8.png"
-      alt="의견 제안"
-      width="400px"
-  />  
-  <의견 제안>
+    <table>
+        <tr>
+            <td>
+                 <img
+                    src="https://user-images.githubusercontent.com/80534651/230417667-6a0ec0b7-261f-4d3d-9a04-c35f5812899c.png"
+                    alt="사수 분의 코드 리뷰"
+                    width="400px"
+                /> 
+            </td>
+        </tr>
+        <tr>
+            <td align="center" class="comment">사수 분의 코드 리뷰</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td>
+                 <img
+                    src="https://user-images.githubusercontent.com/80534651/230417995-21e60dbb-eccc-4d99-be92-c1a3c1146d0c.png"
+                    alt="팀원에게 질문"
+                    width="400px"
+                />  
+            </td>
+        </tr>
+        <tr>
+            <td align="center" class="comment">팀원간 질문</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td>
+                 <img
+                    src="https://user-images.githubusercontent.com/80534651/230418253-30d73a7a-3519-49fa-99c9-94a7e93c8be8.png"
+                    alt="의견 제안"
+                    width="400px"
+                /> 
+            </td>
+        </tr>
+        <tr>
+            <td align="center" class="comment">의견 제안</td>
+        </tr>
+    </table>
 
 ## 구현 기능
 
