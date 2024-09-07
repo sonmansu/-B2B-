@@ -1,6 +1,6 @@
 # B2B 어드민 웹페이지
 
-
+1
 
 <img width="447" alt="b2b관리자페이지노트북사진" src="https://user-images.githubusercontent.com/115059778/230389525-0e8434b5-df6e-484a-ac5e-e646a281455d.png">
 <br/>
@@ -9,8 +9,7 @@
 
 - 개인 맞춤형 영양제 서비스를 제공하는 알고케어의 B2B사업인 ‘알고케어 앳 워크’ 서비스를 이용하는 **고객사의 담당자(고객사 임직원)에게 제공될 관리자페이지**입니다.
 
-
-- 서비스 이용 현황 및 유저 관리, 재고 관리 등을 위해 이용하게 될 **관리자 서비스**를 제작한 프로젝트입니다. 
+- 서비스 이용 현황 및 유저 관리, 재고 관리 등을 위해 이용하게 될 **관리자 서비스**를 제작한 프로젝트입니다.
 
 - 사용자가 필요한 핵심기능과 화면(로그인, 유저관리, 임직원들의 서비스이용 현황을 파악할 수 있는 대시보드, 챗봇 등)을 구현하여 고객사에서 **실제 사용할 수 있는 MVP**를 제작하였습니다.
 
@@ -19,6 +18,7 @@
 <br/>
 
 ### + 프로젝트 개발 방법론
+
 - PM(Product Manager), PD(Product Designer) 2명, Backend 3명, Frontend 5명으로 팀이 이루어짐.
 - 2주 단위의 스프린트 형태로 개발을 진행. 전사적인 방향성과 싱크를 맞춘 개발 백로그 및 타임라인에 맞추어 스프린트 플래닝을 통해 2주간 진행할 테스크를 선정하고 R&R을 배정.
 - 매일 데일리 미팅을 통해 각자의 업무 현황을 공유/체크하고 협업이 필요한 지점을 논의하여 해결.
@@ -27,22 +27,17 @@
 <br/>
 <br/>
 
- 
-
-
 ## 팀원 소개 및 역할 분담
 
-
-|이름|손수민|최윤나|이지혜|
-|:-------:|:----------:|:-----------:|:----------------:|
-|역할 및 담당|프론트엔드|프론트엔드|프론트엔드|
-|담당기능|로그인,대시보드|사용자관리,챗봇|대시보드|
-|개인깃헙주소|[sonmansu](https://github.com/sonmansu)|[goodafteryoon](https://github.com/goodafteryoon)|[wisdom0122](https://github.com/wisdom0122)|
+|     이름     |                 손수민                  |                      최윤나                       |                   이지혜                    |
+| :----------: | :-------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: |
+| 역할 및 담당 |               프론트엔드                |                    프론트엔드                     |                 프론트엔드                  |
+|   담당기능   |             로그인,대시보드             |                  사용자관리,챗봇                  |                  대시보드                   |
+| 개인깃헙주소 | [sonmansu](https://github.com/sonmansu) | [goodafteryoon](https://github.com/goodafteryoon) | [wisdom0122](https://github.com/wisdom0122) |
 
 <br/>
 
 ## 개발 일정
-
 
 **전체 개발 일정: 2023.01.30 ~ 2023.03.08**
 
@@ -54,7 +49,6 @@
 <br/>
 
 ## 주요 기능
-
 
 ### 🚪 로그인
 
@@ -92,14 +86,9 @@
 - 디자인툴: Figma
 - 소스관리: Github/algocare
 
-
-
 <br/>
 <br/>
 <br/>
-
-
-
 
 ## 프로젝트 구조
 
@@ -236,118 +225,118 @@
 
 ### 컨벤션 설정
 
--   깃 브랜치 전략으로 Git-flow를 사용하였습니다.
-    <table>
-              <tr>
-                  <td>
-                      <img
-                          src="https://user-images.githubusercontent.com/80534651/230416019-464caaa8-6eb2-4a84-a6a5-b2fabd92aee3.png"
-                          alt="개발기간 동안 생성한 브랜치들"
-                          width="150px"
-                      />
-                  </td>
-              </tr>
-              <tr>
-                  <td align="center" class="comment">생성된 브랜치들</td>
-              </tr>
-          </table>
-
--   알고케어의 코드 컨벤션에 맞춰 일관성 있고 유지 보수가 용이한 코드를 작성하고자 하였습니다.
-    <table>
+- 깃 브랜치 전략으로 Git-flow를 사용하였습니다.
+  <table>
             <tr>
                 <td>
                     <img
-                        src="https://user-images.githubusercontent.com/80534651/233910603-f2da1c8b-5986-450f-81a2-6fc966616e69.png"
-                        alt="코드 컨벤션 체크리스트 문서 일부"
-                        width="350px"
+                        src="https://user-images.githubusercontent.com/80534651/230416019-464caaa8-6eb2-4a84-a6a5-b2fabd92aee3.png"
+                        alt="개발기간 동안 생성한 브랜치들"
+                        width="150px"
                     />
                 </td>
             </tr>
             <tr>
-                <td align="center" class="comment">코드 컨벤션 체크리스트 문서 일부</td>
+                <td align="center" class="comment">생성된 브랜치들</td>
             </tr>
         </table>
 
--   커밋 컨벤션을 정해 일관성 있고 가독성 있는 커밋 메시지를 작성하였습니다.
+- 알고케어의 코드 컨벤션에 맞춰 일관성 있고 유지 보수가 용이한 코드를 작성하고자 하였습니다.
+  <table>
+          <tr>
+              <td>
+                  <img
+                      src="https://user-images.githubusercontent.com/80534651/233910603-f2da1c8b-5986-450f-81a2-6fc966616e69.png"
+                      alt="코드 컨벤션 체크리스트 문서 일부"
+                      width="350px"
+                  />
+              </td>
+          </tr>
+          <tr>
+              <td align="center" class="comment">코드 컨벤션 체크리스트 문서 일부</td>
+          </tr>
+      </table>
 
-    <table>
-            <tr>
-                <td>
-                    <img
-                        src="https://user-images.githubusercontent.com/80534651/230416622-a37764de-ceb1-4604-9429-dd536765a025.png"
-                        alt="커밋 메시지"
-                        width="350px"
-                    />
-                </td>
-            </tr>
-            <tr>
-                <td align="center" class="comment">커밋 내역</td>
-            </tr>
-        </table>
+- 커밋 컨벤션을 정해 일관성 있고 가독성 있는 커밋 메시지를 작성하였습니다.
 
--   Issue, Pull request는 템플릿에 맞춰 작성하여 팀원들이 작업한 사항에 대해 파악하기 쉽도록 했습니다.
-    <table>
-            <tr>
-                <td>
-                    <img
-                        src="https://user-images.githubusercontent.com/80534651/230417025-89101613-76ea-4c44-b5c5-ba651c75b5a5.png"
-                        alt="pr 예시"
-                        width="350px"
-                    />  
-                </td>
-            </tr>
-            <tr>
-                <td align="center" class="comment">작성 PR 예시</td>
-            </tr>
-        </table>
+  <table>
+          <tr>
+              <td>
+                  <img
+                      src="https://user-images.githubusercontent.com/80534651/230416622-a37764de-ceb1-4604-9429-dd536765a025.png"
+                      alt="커밋 메시지"
+                      width="350px"
+                  />
+              </td>
+          </tr>
+          <tr>
+              <td align="center" class="comment">커밋 내역</td>
+          </tr>
+      </table>
+
+- Issue, Pull request는 템플릿에 맞춰 작성하여 팀원들이 작업한 사항에 대해 파악하기 쉽도록 했습니다.
+  <table>
+          <tr>
+              <td>
+                  <img
+                      src="https://user-images.githubusercontent.com/80534651/230417025-89101613-76ea-4c44-b5c5-ba651c75b5a5.png"
+                      alt="pr 예시"
+                      width="350px"
+                  />  
+              </td>
+          </tr>
+          <tr>
+              <td align="center" class="comment">작성 PR 예시</td>
+          </tr>
+      </table>
 
 ### 코드 리뷰
 
--   모든 코드는 팀원들과 사내 사수 분의 코드 리뷰 과정을 거쳤습니다.
--   자유로운 의견 토론을 통해 코드를 개선하고 지식을 공유했습니다.
+- 모든 코드는 팀원들과 사내 사수 분의 코드 리뷰 과정을 거쳤습니다.
+- 자유로운 의견 토론을 통해 코드를 개선하고 지식을 공유했습니다.
 
-    <table>
-        <tr>
-            <td>
-                 <img
-                    src="https://user-images.githubusercontent.com/80534651/230417667-6a0ec0b7-261f-4d3d-9a04-c35f5812899c.png"
-                    alt="사수 분의 코드 리뷰"
-                    width="400px"
-                /> 
-            </td>
-        </tr>
-        <tr>
-            <td align="center" class="comment">사수 분의 코드 리뷰</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td>
-                 <img
-                    src="https://user-images.githubusercontent.com/80534651/230417995-21e60dbb-eccc-4d99-be92-c1a3c1146d0c.png"
-                    alt="팀원에게 질문"
-                    width="400px"
-                />  
-            </td>
-        </tr>
-        <tr>
-            <td align="center" class="comment">팀원간 질문</td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td>
-                 <img
-                    src="https://user-images.githubusercontent.com/80534651/230418253-30d73a7a-3519-49fa-99c9-94a7e93c8be8.png"
-                    alt="의견 제안"
-                    width="400px"
-                /> 
-            </td>
-        </tr>
-        <tr>
-            <td align="center" class="comment">의견 제안</td>
-        </tr>
-    </table>
+  <table>
+      <tr>
+          <td>
+               <img
+                  src="https://user-images.githubusercontent.com/80534651/230417667-6a0ec0b7-261f-4d3d-9a04-c35f5812899c.png"
+                  alt="사수 분의 코드 리뷰"
+                  width="400px"
+              /> 
+          </td>
+      </tr>
+      <tr>
+          <td align="center" class="comment">사수 분의 코드 리뷰</td>
+      </tr>
+  </table>
+  <table>
+      <tr>
+          <td>
+               <img
+                  src="https://user-images.githubusercontent.com/80534651/230417995-21e60dbb-eccc-4d99-be92-c1a3c1146d0c.png"
+                  alt="팀원에게 질문"
+                  width="400px"
+              />  
+          </td>
+      </tr>
+      <tr>
+          <td align="center" class="comment">팀원간 질문</td>
+      </tr>
+  </table>
+  <table>
+      <tr>
+          <td>
+               <img
+                  src="https://user-images.githubusercontent.com/80534651/230418253-30d73a7a-3519-49fa-99c9-94a7e93c8be8.png"
+                  alt="의견 제안"
+                  width="400px"
+              /> 
+          </td>
+      </tr>
+      <tr>
+          <td align="center" class="comment">의견 제안</td>
+      </tr>
+  </table>
 
 ## 구현 기능
 
@@ -373,11 +362,13 @@
 #### 챗봇 기능
 
 - url 파라미터에 따라(로그인 전/후) 다른 내용의 챗봇 연결
-<br/>
+  <br/>
 
 #### 대시보드 내 몸상태페이지
+
 ![1](https://user-images.githubusercontent.com/115059778/230389719-d2152d65-af0d-4f1e-a22f-36ef32e20064.png)
 ![2](https://user-images.githubusercontent.com/115059778/230389738-373b6fb3-15d7-434e-bdde-006dfeff2397.png)
+
 - 임직원 월별 몸상태 랭킹5 차트
 - 몸상태 선택 select-box
 - 요일별 몸상태 차트
