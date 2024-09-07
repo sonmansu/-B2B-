@@ -10,4 +10,4 @@ jobs:
       - uses: sonmansu/js-action@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          exclude: "user1,user2"
+          
