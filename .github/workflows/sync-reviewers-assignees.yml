@@ -5,6 +5,7 @@ on:
 
 jobs:
   sync_reviewers_assignees:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - uses: sonmansu/js-action@main
